@@ -1,0 +1,6 @@
+name: clans-sql
+version: '1.0.0'
+main: me.lyn1.clansSql.ClansSql
+api-version: '1.21'
+authors: [ lynzl ]
+description: astris mc but you can farm... mmghh i am farmer 
