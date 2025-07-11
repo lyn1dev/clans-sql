@@ -3,4 +3,9 @@ version: '1.0.0'
 main: me.lyn1.clansSql.ClansSql
 api-version: '1.21'
 authors: [ lynzl ]
-description: astris mc but you can farm... mmghh i am farmer 
+description: ClansSql
+
+commands:
+  clan:
+    description: Base command for clan management.
+    usage: /<command> [create <name> | invite <player> | promote <player> | demote <player> | transfer <player> | kick <player>]

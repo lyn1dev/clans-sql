@@ -20,6 +20,7 @@ repositories {
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation("org.xerial:sqlite-jdbc:3.46.0.0") // SQLite JDBC driver
 }
 
 tasks {
